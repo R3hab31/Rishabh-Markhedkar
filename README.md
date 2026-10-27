@@ -25,8 +25,7 @@ I've been working with Python since around 9th grade, and I enjoy building proje
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cybersecurity & Tools**
 
