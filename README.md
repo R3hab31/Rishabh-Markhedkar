@@ -25,7 +25,7 @@ I've been working with Python since around 9th grade, and I enjoy building proje
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL / SQL](https://img.shields.io/badge/MySQL%20%2F%20SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Cybersecurity & Tools**
 
@@ -37,18 +37,18 @@ I've been working with Python since around 9th grade, and I enjoy building proje
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabh-Markhedkar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=R3hab31&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-Markhedkar&layout=donut&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R3hab31&layout=donut&theme=tokyonight)
 
 ---
 
 ## 🔭 Featured Projects
 
-- 🔒 **Image Encryption** — Exploring image encryption and decryption.
-- 🔑 **Text Cryptography** — RSA, DSA, AES, and hybrid cryptographic techniques.
-- 🛡️ **Password Analyzer** — Evaluating password strength and security.
-- ⌨️ **Keylogger** — An educational project exploring keyboard event monitoring and endpoint security.
+- 🔒 **Image Encryption** — A cybersecurity project exploring image encryption and decryption.
+- 🔑 **Text Cryptography** — Implementation of RSA, DSA, AES, and hybrid cryptographic techniques.
+- 🛡️ **Password Analyzer** — A tool for evaluating password strength and identifying potential weaknesses.
+- ⌨️ **Keylogger** — An educational project exploring keyboard event monitoring and endpoint security, intended for authorized testing and cybersecurity learning only.
 - 🚨 **Sentinel** — A personal Python-based security log monitoring and threat detection project.
 
 ---
